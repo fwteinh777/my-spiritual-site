@@ -1,0 +1,44 @@
+body{
+    background-color: #2e1065;
+    color: white;  
+}
+h1{
+    color: #e9d5ff;
+    text-align: center;
+}
+.btn{
+    color: #2e1065;
+    padding: 10px 20px;
+    background-color: #e9d5ff;
+    margin-left: 30px;
+}
+button {
+    margin-bottom: 25px;
+    margin-right: 4px;
+}
+p{
+    font-size: 15px;
+    margin-left : 25px;
+    margin-right : 25px;
+    margin-bottom : 25px;
+}
+img{
+    margin-left: 55px;
+    width: 200px;
+    margin-bottom: 25px;
+}
+.big-image {
+    width: 350px;
+    margin-left: 55px;
+    margin-bottom: 25px;
+}
+.hidden-content {
+    display: none;
+    margin-top: 15px;
+    padding: 15px;
+    background-color: rgba(255, 255, 255, 0.1); /* Ελαφρύ πλαίσιο */
+    border-radius: 8px;
+}
+.show-content {
+    display: block !important;
+}
