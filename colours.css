@@ -42,3 +42,8 @@ img{
 .show-content {
     display: block !important;
 }
+.float-img{
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 18px;
+}
